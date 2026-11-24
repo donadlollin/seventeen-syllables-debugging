@@ -1,0 +1,3 @@
+Cursor blinks at three
+a breakpoint waits in the dark
+it was a typo
